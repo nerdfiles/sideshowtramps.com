@@ -1,0 +1,4 @@
+[27-Feb-2011 23:23:15] PHP Fatal error:  Call to undefined function  do_action() in /home/tramps/public_html/wordpress/wp-content/plugins/wp-e-commerce/transaction_results.php on line 3
+[27-Feb-2011 23:23:19] PHP Fatal error:  Call to undefined function  get_option() in /home/tramps/public_html/wordpress/wp-content/plugins/wp-e-commerce/user-log.php on line 3
+[27-Feb-2011 23:23:35] PHP Fatal error:  Call to a member function get_col() on a non-object in /home/tramps/public_html/wordpress/wp-content/plugins/wp-e-commerce/user-downloads.php on line 3
+[20-Mar-2011 11:25:46] PHP Fatal error:  Call to undefined function  get_option() in /home/tramps/public_html/wordpress/wp-content/plugins/wp-e-commerce/edit-profile.php on line 79

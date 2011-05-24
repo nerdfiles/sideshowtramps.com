@@ -1,0 +1,1 @@
+[13-Jul-2010 10:56:41] PHP Fatal error:  Call to undefined function  get_header() in /home/tramps/public_html/wordpress/wp-content/themes/sideshow-tramps/landing-page.php on line 20

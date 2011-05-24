@@ -1,0 +1,404 @@
+[01-Apr-2010 13:55:09] PHP Fatal error:  Call to undefined function  do_action() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[01-Apr-2010 14:46:33] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 23
+[01-Apr-2010 15:18:07] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[01-Apr-2010 15:56:28] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1196
+[01-Apr-2010 18:02:36] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[01-Apr-2010 19:07:38] PHP Fatal error:  Call to undefined function  wp_die() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 1039
+[01-Apr-2010 20:05:46] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 615
+[01-Apr-2010 20:57:14] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 312
+[01-Apr-2010 21:15:46] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1045
+[02-Apr-2010 03:28:27] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[02-Apr-2010 03:37:37] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 22
+[02-Apr-2010 04:43:21] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[02-Apr-2010 06:45:50] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[02-Apr-2010 08:12:28] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[02-Apr-2010 09:51:59] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 343
+[02-Apr-2010 13:15:35] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[02-Apr-2010 16:17:20] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[02-Apr-2010 16:17:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[02-Apr-2010 20:31:08] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[02-Apr-2010 20:31:08] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[02-Apr-2010 20:31:08] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[02-Apr-2010 20:32:12] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[02-Apr-2010 21:15:52] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[02-Apr-2010 21:58:24] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[02-Apr-2010 23:10:45] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 66
+[02-Apr-2010 23:55:17] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[02-Apr-2010 23:58:55] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[03-Apr-2010 01:01:50] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1166
+[03-Apr-2010 01:11:16] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[03-Apr-2010 01:42:06] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1165
+[03-Apr-2010 02:42:47] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[03-Apr-2010 02:56:37] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[03-Apr-2010 04:37:07] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[04-Apr-2010 08:34:56] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[22-Apr-2010 06:42:16] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1196
+[22-Apr-2010 07:09:47] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[22-Apr-2010 07:10:57] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 615
+[22-Apr-2010 07:15:38] PHP Fatal error:  Call to undefined function  wp_die() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 1039
+[22-Apr-2010 07:22:51] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[22-Apr-2010 07:24:59] PHP Fatal error:  Call to undefined function  do_action() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[22-Apr-2010 07:26:10] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[22-Apr-2010 07:29:05] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 23
+[22-Apr-2010 07:36:41] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 22
+[22-Apr-2010 07:38:25] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[22-Apr-2010 07:39:00] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1165
+[22-Apr-2010 07:39:34] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 66
+[22-Apr-2010 07:41:18] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[22-Apr-2010 07:42:27] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[22-Apr-2010 07:43:37] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[22-Apr-2010 07:43:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[22-Apr-2010 07:47:04] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[22-Apr-2010 07:48:15] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[22-Apr-2010 07:49:23] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[22-Apr-2010 07:49:23] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[22-Apr-2010 07:49:23] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[22-Apr-2010 07:50:32] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[24-Apr-2010 16:01:14] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[25-Apr-2010 21:53:05] PHP Fatal error:  Call to undefined function  do_action() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[26-Apr-2010 21:57:27] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 22
+[26-Apr-2010 23:54:07] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 66
+[30-Apr-2010 05:27:55] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1165
+[01-May-2010 15:15:48] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[02-May-2010 20:45:47] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[02-May-2010 20:53:55] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 23
+[02-May-2010 21:08:35] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[02-May-2010 21:08:35] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[02-May-2010 21:08:35] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[02-May-2010 21:09:46] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[02-May-2010 21:11:36] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[02-May-2010 21:16:20] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[02-May-2010 21:22:19] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[02-May-2010 21:22:55] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1196
+[02-May-2010 21:36:19] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[02-May-2010 21:37:15] PHP Fatal error:  Call to undefined function  wp_die() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 1039
+[02-May-2010 21:37:37] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[02-May-2010 21:37:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[02-May-2010 21:38:56] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 615
+[02-May-2010 21:39:17] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[05-May-2010 03:39:19] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[07-May-2010 17:35:21] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1196
+[07-May-2010 17:38:34] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[07-May-2010 17:43:45] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 23
+[07-May-2010 19:16:35] PHP Fatal error:  Call to undefined function  do_action() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[07-May-2010 19:18:33] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[07-May-2010 19:25:36] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 312
+[07-May-2010 19:31:24] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[07-May-2010 19:37:11] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[07-May-2010 19:39:08] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 615
+[07-May-2010 19:40:25] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 22
+[07-May-2010 19:41:04] PHP Fatal error:  Call to undefined function  wp_die() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 1039
+[08-May-2010 23:07:01] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[08-May-2010 23:15:38] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[08-May-2010 23:20:16] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 66
+[08-May-2010 23:22:02] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[08-May-2010 23:24:57] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[08-May-2010 23:25:32] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[08-May-2010 23:25:32] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[08-May-2010 23:25:32] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[08-May-2010 23:41:36] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1165
+[09-May-2010 00:09:04] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[09-May-2010 00:09:04] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[09-May-2010 00:14:07] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[09-May-2010 01:00:23] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[13-May-2010 17:49:55] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[14-May-2010 18:28:06] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[16-May-2010 20:21:21] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[16-May-2010 23:01:20] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1045
+[17-May-2010 02:22:33] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[18-May-2010 09:41:43] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[18-May-2010 10:44:44] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1045
+[20-May-2010 20:31:38] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[20-May-2010 22:14:19] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1045
+[23-May-2010 22:44:52] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[24-May-2010 03:49:51] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1045
+[30-May-2010 16:56:12] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[30-May-2010 16:56:12] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[30-May-2010 16:56:12] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 26
+[30-May-2010 19:11:54] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 312
+[01-Jun-2010 15:21:26] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 312
+[31-Jul-2010 05:34:55] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[31-Jul-2010 09:20:15] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[31-Jul-2010 10:24:03] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 139
+[31-Jul-2010 12:10:21] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1361
+[31-Jul-2010 18:57:02] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[31-Jul-2010 22:31:46] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 701
+[31-Jul-2010 22:53:33] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1137
+[01-Aug-2010 00:07:53] PHP Fatal error:  Call to undefined function  is_multisite() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 505
+[01-Aug-2010 05:46:45] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 330
+[01-Aug-2010 17:31:40] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[01-Aug-2010 18:54:24] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[01-Aug-2010 20:15:56] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 65
+[02-Aug-2010 03:09:48] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[02-Aug-2010 03:37:16] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[02-Aug-2010 06:07:23] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 401
+[02-Aug-2010 07:08:02] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[02-Aug-2010 12:48:18] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[02-Aug-2010 12:48:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[02-Aug-2010 19:28:14] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[02-Aug-2010 19:28:14] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[02-Aug-2010 19:28:14] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[02-Aug-2010 22:01:17] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[02-Aug-2010 22:25:29] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[02-Aug-2010 22:28:36] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[02-Aug-2010 23:15:24] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[03-Aug-2010 00:21:32] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[03-Aug-2010 05:39:59] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[03-Aug-2010 06:29:58] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[03-Aug-2010 06:29:58] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[03-Aug-2010 06:29:58] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[03-Aug-2010 12:04:51] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[03-Aug-2010 12:42:56] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[03-Aug-2010 14:02:00] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[03-Aug-2010 16:53:48] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 10
+[03-Aug-2010 17:20:28] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[03-Aug-2010 18:50:37] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[03-Aug-2010 20:18:49] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1192
+[03-Aug-2010 20:24:54] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[03-Aug-2010 21:26:54] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 401
+[03-Aug-2010 22:01:07] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[03-Aug-2010 22:17:48] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[04-Aug-2010 00:59:46] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[04-Aug-2010 01:31:37] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[04-Aug-2010 04:51:53] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[04-Aug-2010 21:13:45] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[05-Aug-2010 04:18:54] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[05-Aug-2010 06:32:56] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[05-Aug-2010 07:03:23] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[05-Aug-2010 07:38:52] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[05-Aug-2010 08:57:08] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[05-Aug-2010 10:02:44] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[05-Aug-2010 10:02:44] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[05-Aug-2010 10:02:44] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[05-Aug-2010 18:37:57] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[05-Aug-2010 19:01:00] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[05-Aug-2010 19:35:24] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 401
+[06-Aug-2010 03:10:49] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[06-Aug-2010 08:11:47] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[06-Aug-2010 08:11:47] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[06-Aug-2010 08:11:47] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[06-Aug-2010 18:18:41] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[07-Aug-2010 00:54:33] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[07-Aug-2010 03:47:18] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[07-Aug-2010 09:19:51] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[07-Aug-2010 09:22:02] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[07-Aug-2010 09:29:06] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[07-Aug-2010 09:44:24] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[07-Aug-2010 10:31:05] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[07-Aug-2010 10:31:05] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[07-Aug-2010 10:31:05] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[08-Aug-2010 08:59:38] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 401
+[08-Aug-2010 09:20:10] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[08-Aug-2010 16:50:15] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[09-Aug-2010 06:17:31] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[09-Aug-2010 06:55:55] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[09-Aug-2010 08:09:53] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[09-Aug-2010 17:20:15] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[09-Aug-2010 22:03:34] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[09-Aug-2010 22:58:06] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 401
+[10-Aug-2010 00:19:49] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[10-Aug-2010 01:23:39] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[10-Aug-2010 06:14:47] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[11-Aug-2010 07:50:08] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[11-Aug-2010 07:58:25] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[11-Aug-2010 07:58:45] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[11-Aug-2010 14:21:03] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[11-Aug-2010 17:18:48] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[11-Aug-2010 17:55:25] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[12-Aug-2010 02:03:46] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[13-Aug-2010 04:17:14] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[13-Aug-2010 05:24:51] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[13-Aug-2010 19:06:52] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[14-Aug-2010 02:04:07] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[14-Aug-2010 11:08:22] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[14-Aug-2010 14:57:53] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[12-Nov-2010 01:27:06] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[12-Nov-2010 01:27:06] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[12-Nov-2010 01:27:06] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[12-Nov-2010 03:35:57] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[12-Nov-2010 03:35:57] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[12-Nov-2010 03:35:57] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[02-Dec-2010 00:31:55] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[02-Dec-2010 00:31:55] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[02-Dec-2010 00:31:55] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[25-Dec-2010 03:25:35] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[25-Dec-2010 03:25:35] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[25-Dec-2010 03:25:35] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[12-Jan-2011 06:26:54] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[12-Jan-2011 06:26:54] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[12-Jan-2011 06:26:54] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[16-Jan-2011 08:07:39] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[16-Jan-2011 08:07:39] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[16-Jan-2011 08:07:39] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[04-Mar-2011 14:18:33] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[04-Mar-2011 14:18:33] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[04-Mar-2011 14:18:33] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[14-Mar-2011 00:14:18] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 139
+[14-Mar-2011 01:01:17] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[14-Mar-2011 01:35:05] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1353
+[14-Mar-2011 02:27:31] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[14-Mar-2011 04:51:37] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[14-Mar-2011 05:44:05] PHP Fatal error:  Call to undefined function  is_multisite() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 505
+[14-Mar-2011 06:47:12] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1137
+[14-Mar-2011 07:28:46] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 701
+[14-Mar-2011 07:58:41] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 337
+[14-Mar-2011 13:43:22] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[14-Mar-2011 14:42:57] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[14-Mar-2011 22:03:37] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 65
+[14-Mar-2011 22:11:41] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 413
+[14-Mar-2011 22:12:04] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[14-Mar-2011 23:20:59] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[15-Mar-2011 00:19:34] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[15-Mar-2011 00:19:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[15-Mar-2011 01:00:31] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[15-Mar-2011 01:28:54] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[15-Mar-2011 02:06:44] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[15-Mar-2011 02:44:00] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[15-Mar-2011 03:01:13] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[15-Mar-2011 03:34:27] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 10
+[15-Mar-2011 03:34:35] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[15-Mar-2011 03:47:18] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[15-Mar-2011 03:49:42] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[15-Mar-2011 04:32:38] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[15-Mar-2011 04:33:13] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1219
+[15-Mar-2011 04:49:58] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[15-Mar-2011 05:36:30] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[15-Mar-2011 06:30:49] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[15-Mar-2011 06:36:14] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[15-Mar-2011 07:45:19] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[15-Mar-2011 08:34:08] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[15-Mar-2011 09:08:39] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[15-Mar-2011 19:19:57] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 139
+[15-Mar-2011 20:22:17] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[15-Mar-2011 20:47:01] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[15-Mar-2011 21:55:10] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[15-Mar-2011 23:17:17] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1353
+[16-Mar-2011 01:41:19] PHP Fatal error:  Call to undefined function  is_multisite() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 505
+[16-Mar-2011 02:49:36] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 337
+[16-Mar-2011 06:01:42] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 701
+[16-Mar-2011 06:23:56] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[16-Mar-2011 06:46:50] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[16-Mar-2011 07:55:30] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1137
+[16-Mar-2011 08:24:54] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1219
+[16-Mar-2011 08:52:04] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[16-Mar-2011 09:23:44] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[16-Mar-2011 10:58:50] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[16-Mar-2011 11:11:42] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[16-Mar-2011 11:57:59] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[16-Mar-2011 12:13:57] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 65
+[16-Mar-2011 12:20:58] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[16-Mar-2011 12:41:06] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[16-Mar-2011 13:29:28] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[16-Mar-2011 13:47:24] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[16-Mar-2011 14:00:12] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 10
+[16-Mar-2011 14:10:23] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[16-Mar-2011 14:36:22] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[16-Mar-2011 14:50:07] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[16-Mar-2011 14:54:23] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[16-Mar-2011 14:54:23] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[16-Mar-2011 15:09:01] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[16-Mar-2011 15:10:30] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[16-Mar-2011 15:17:45] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[16-Mar-2011 15:20:10] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[16-Mar-2011 15:22:23] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 413
+[16-Mar-2011 17:44:18] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[16-Mar-2011 20:52:44] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[18-Mar-2011 17:44:42] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[18-Mar-2011 17:46:35] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[18-Mar-2011 18:23:40] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1219
+[18-Mar-2011 18:52:19] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[18-Mar-2011 19:42:30] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[18-Mar-2011 20:39:59] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 139
+[18-Mar-2011 21:19:56] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[18-Mar-2011 21:28:53] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[18-Mar-2011 21:40:49] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 65
+[18-Mar-2011 21:47:38] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[18-Mar-2011 22:23:24] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[18-Mar-2011 23:00:03] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[18-Mar-2011 23:01:00] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[18-Mar-2011 23:23:46] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[18-Mar-2011 23:49:38] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[18-Mar-2011 23:54:55] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[18-Mar-2011 23:55:40] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[18-Mar-2011 23:58:30] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1353
+[19-Mar-2011 00:15:08] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 337
+[19-Mar-2011 00:37:44] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[19-Mar-2011 00:45:23] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[19-Mar-2011 01:10:54] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[19-Mar-2011 01:39:19] PHP Fatal error:  Call to undefined function  is_multisite() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 505
+[19-Mar-2011 01:50:25] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[19-Mar-2011 02:08:09] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 701
+[19-Mar-2011 02:20:07] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[19-Mar-2011 03:40:29] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[19-Mar-2011 03:40:29] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[19-Mar-2011 03:59:26] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1137
+[19-Mar-2011 04:00:08] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 413
+[19-Mar-2011 04:05:03] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[19-Mar-2011 04:10:26] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[19-Mar-2011 05:11:18] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[19-Mar-2011 05:16:40] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 10
+[19-Mar-2011 05:27:23] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[21-Mar-2011 15:09:56] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[21-Mar-2011 16:11:56] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rdf.php on line 8
+[21-Mar-2011 17:13:16] PHP Fatal error:  Call to undefined function  is_admin() in /home/tramps/public_html/wordpress/wp-includes/vars.php on line 16
+[21-Mar-2011 17:13:16] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1219
+[21-Mar-2011 18:33:20] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[21-Mar-2011 18:45:46] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[21-Mar-2011 21:59:35] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[21-Mar-2011 23:13:20] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/post.php on line 139
+[21-Mar-2011 23:16:30] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[21-Mar-2011 23:46:48] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/taxonomy.php on line 65
+[22-Mar-2011 00:28:58] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss.php on line 8
+[22-Mar-2011 01:17:55] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[22-Mar-2011 01:29:22] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[22-Mar-2011 01:52:02] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[22-Mar-2011 01:59:27] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[22-Mar-2011 02:18:30] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/kses.php on line 1353
+[22-Mar-2011 02:55:11] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[22-Mar-2011 03:05:08] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[22-Mar-2011 03:17:50] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/update.php on line 337
+[22-Mar-2011 03:31:24] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[22-Mar-2011 04:04:13] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[22-Mar-2011 04:55:56] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss-functions.php on line 8
+[22-Mar-2011 04:56:46] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2.php on line 8
+[22-Mar-2011 05:13:04] PHP Fatal error:  Call to undefined function  is_robots() in /home/tramps/public_html/wordpress/wp-includes/template-loader.php on line 10
+[22-Mar-2011 05:17:01] PHP Fatal error:  Call to undefined function  is_multisite() in /home/tramps/public_html/wordpress/wp-includes/wp-db.php on line 505
+[22-Mar-2011 05:23:29] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom.php on line 8
+[22-Mar-2011 05:33:04] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/theme.php on line 1137
+[22-Mar-2011 05:47:40] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/tramps/public_html/wordpress/wp-includes/media.php on line 701
+[22-Mar-2011 06:04:46] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/user.php on line 70
+[22-Mar-2011 06:06:51] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/general-template.php on line 1273
+[22-Mar-2011 06:46:03] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/rss.php on line 18
+[22-Mar-2011 06:49:34] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-styles.php on line 19
+[22-Mar-2011 07:09:35] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/canonical.php on line 413
+[22-Mar-2011 07:50:26] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[22-Mar-2011 07:50:26] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/class-feed.php on line 4
+[25-Mar-2011 14:14:28] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/comment-template.php on line 1219
+[25-Mar-2011 15:13:09] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/registration-functions.php on line 7
+[25-Mar-2011 15:16:10] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/default-filters.php on line 17
+[25-Mar-2011 15:46:22] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/ms-default-filters.php on line 17
+[25-Mar-2011 15:51:03] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-functions.php on line 1340
+[25-Mar-2011 16:27:19] PHP Fatal error:  Call to undefined function  add_filter() in /home/tramps/public_html/wordpress/wp-includes/shortcodes.php on line 296
+[25-Mar-2011 18:38:05] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/tramps/public_html/wordpress/wp-includes/class-snoopy.php on line 6
+[25-Mar-2011 19:13:43] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tramps/public_html/wordpress/wp-includes/class.wp-scripts.php on line 19
+[25-Mar-2011 19:31:43] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/tramps/public_html/wordpress/wp-includes/default-embeds.php on line 33
+[25-Mar-2011 20:15:41] PHP Fatal error:  Class 'Walker' not found in /home/tramps/public_html/wordpress/wp-includes/nav-menu-template.php on line 17
+[25-Mar-2011 20:36:45] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-rss2-comments.php on line 8
+[25-Mar-2011 20:40:19] PHP Fatal error:  Class 'WP_Widget' not found in /home/tramps/public_html/wordpress/wp-includes/default-widgets.php on line 15
+[25-Mar-2011 20:46:05] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/tramps/public_html/wordpress/wp-includes/feed-atom-comments.php on line 8
+[25-Mar-2011 21:19:37] PHP Fatal error:  Call to undefined function  add_action() in /home/tramps/public_html/wordpress/wp-includes/ms-default-constants.php on line 138
+[27-Mar-2011 20:49:03] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[27-Mar-2011 20:49:03] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[27-Mar-2011 20:49:03] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/script-loader.php on line 25
+[12-May-2011 08:45:52] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[12-May-2011 08:45:52] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[12-May-2011 08:45:52] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[14-May-2011 21:49:04] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[14-May-2011 21:49:04] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[14-May-2011 21:49:04] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[17-May-2011 20:21:49] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[17-May-2011 20:21:49] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[17-May-2011 20:21:49] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[20-May-2011 08:57:50] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[20-May-2011 08:57:50] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
+[20-May-2011 08:57:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tramps/public_html/wordpress/wp-includes/ms-settings.php on line 18
