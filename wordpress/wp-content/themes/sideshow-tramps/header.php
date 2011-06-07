@@ -16,9 +16,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <title><?php hybrid_document_title(); ?></title>
 
 <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/reset.css" media="screen" />
+<link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/style.css" media="screen" />
 <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/layer-behavior/sb/shadowbox.css" />
 
@@ -60,12 +63,15 @@
 								<div style="width: 220px; padding: 6px; letter-spacing: 1px; background: #000;"><span style="color: #c30000;">Free downloads</span> &amp; updates!</div>
 							</td>
 							<td style="vertical-align: middle;">
-								<object height="32" width="200" align="middle" id="WidgetMailBlack" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
-								<param value="sameDomain" name="allowScriptAccess">
-								<param value="http://widget.fanbridge.com/widget_small_black.swf" name="movie">
-								<param value="high" name="quality">
-								<param value="#333333" name="bgcolor">
-								<param value="wid=small-4b315169b1cc9-sb&amp;list_id=128532" name="flashvars"><embed height="32" width="200" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowscriptaccess="sameDomain" swliveconnect="true" name="WidgetMailBlack" bgcolor="#333333" quality="high" flashvars="wid=small-4b315169b1cc9-sb&amp;list_id=128532" src="http://widget.fanbridge.com/widget_small_black.swf"><a href="http://widget.fanbridge.com/widget_small_black.swf" class="vzbtnvfppcxpuegnsrtl tzcqylewfdxirjemjgxp" title="Click here to block this object with Adblock Plus" style="left: 1083.03px ! important; top: 37px ! important;"></a><a href="http://widget.fanbridge.com/widget_small_black.swf" class="vzbtnvfppcxpuegnsrtl"></a>
+								<object style="position: absolute; left: -9999px;" height="32" width="200" align="middle" id="WidgetMailBlack" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+    								<param value="sameDomain" name="allowScriptAccess">
+    								<param value="http://widget.fanbridge.com/widget_small_black.swf" name="movie">
+    								<param value="high" name="quality">
+    								<param value="#000000" name="bgcolor">
+    								<param value="wid=small-4b315169b1cc9-sb&amp;list_id=128532" name="flashvars">
+    							    <embed height="32" width="200" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowscriptaccess="sameDomain" swliveconnect="true" name="WidgetMailBlack" bgcolor="#000000" quality="high" flashvars="wid=small-4b315169b1cc9-sb&amp;list_id=128532" src="http://widget.fanbridge.com/widget_small_black.swf" />
+    						        <a href="http://widget.fanbridge.com/widget_small_black.swf" class="vzbtnvfppcxpuegnsrtl tzcqylewfdxirjemjgxp" title="Click here to block this object with Adblock Plus" style="left: 1083.03px ! important; top: 37px ! important;"></a>
+    						        <a href="http://widget.fanbridge.com/widget_small_black.swf" class="vzbtnvfppcxpuegnsrtl"></a>
 								</object>
 							</td>
 							<!--td style="vertical-align: middle;">

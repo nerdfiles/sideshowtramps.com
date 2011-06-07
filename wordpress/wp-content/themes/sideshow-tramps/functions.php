@@ -36,17 +36,40 @@ function body_class_page_name($echo = false) {
 	if ($echo == true) echo $parent_title.$page_name;
 	else return $parent_title.$page_name;
 }
+/*
 
-add_action('hybrid_head', 'google_ajax_libraries');
-function google_ajax_libraries() {
+http://sideshowtramps.com/wordpress/wp-includes/js/l10n.js?ver=20101110 
+http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=1.4 
+http://sideshowtramps.com/wordpress/wp-content/plugins/wp-e-commerce/wpsc-core/js/wp-e-commerce.js?ver=3.8.4.391083 
+http://sideshowtramps.com/wordpress/wp-content/plugins/wp-e-commerce/wpsc-core/js/jquery.infieldlabel.min.js?ver=3.8.4.391083 
+http://sideshowtramps.com/wordpress/wp-content/plugins/wp-e-commerce/wpsc-core/js/ajax.js?ver=3.8.4.391083   
+http://sideshowtramps.com/wordpress/index.php?wpsc_user_dynamic_js=true&#038;ver=3.8.4.391083 
+http://sideshowtramps.com/wordpress/wp-content/plugins/wp-e-commerce/wpsc-admin/js/jquery.livequery.js?ver=1.0.3 
+http://sideshowtramps.com/wordpress/wp-content/plugins/wp-e-commerce/wpsc-core/js/jquery.rating.js?ver=3.8.4.391083 
+http://sideshowtramps.com/wordpress/wp-content/plugins/wp-e-commerce/wpsc-core/js/user.js?ver=3.8.4391083 
+http://sideshowtramps.com/wordpress/wp-content/themes/sideshow-tramps/layer-behavior/jquery.preloadimages.js?ver=1.4 
+http://sideshowtramps.com/wordpress/wp-content/themes/sideshow-tramps/layer-behavior/sb/shadowbox.js?ver=3.1.3 
+http://sideshowtramps.com/wordpress/wp-content/themes/sideshow-tramps/layer-behavior/main.js?ver=3.1.3 
+http://sideshowtramps.com/wordpress/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52 
+http://sideshowtramps.com/wordpress/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.5 
+
+*/
+
+//add_action('wp_footer', 'remove_js');
+function remove_js() {
+    wp_deregister_script('jquery');
+}
+add_action('hybrid_head', 'load_js');
+function load_js() {
 	/* jQuery */
 	wp_deregister_script('jquery');
+    //wp_deregister_script('l10n');
+    //wp_deregister_script('wp-e-commerce');
+    //wp_deregister_script('jquery.infieldlabel.min');
+    //wp_deregister_script('wpsc-ajax');
+    
 	wp_register_script('jquery', 'http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js', false, '1.4');
 	wp_enqueue_script('jquery');
-	
-	/* jQuery preloadImages */
-	wp_register_script('preloadimages', '/wp-content/themes/sideshow-tramps/layer-behavior/jquery.preloadimages.js', false, '1.4');
-	wp_enqueue_script('preloadimages');
 	
 	wp_register_script('shadowbox', '/wp-content/themes/sideshow-tramps/layer-behavior/sb/shadowbox.js', false);
 	wp_enqueue_script('shadowbox');
@@ -86,7 +109,7 @@ function custom_page_nav() {
 	$nav = str_replace( '<div class="', '<div id="page-nav" class="', $nav );
 
 	/* Adds the .menu and .sf-menu classes for use with the drop-down JavaScript. */
-	$nav = preg_replace( '/<ul>/', '<ul class="menu sf-menu clear-hack"><li class="page_item page-item-external"><a href="http://thejester.sideshowtramps.com" rel="external">The Jester</a></li>', $nav, 1 );
+	$nav = preg_replace( '/<ul>/', '<ul class="menu sf-menu clear-hack"><li class="page_item page-item-external"><a href="http://thejester.sideshowtramps.com">The Jester</a></li>', $nav, 1 );
 	
 	echo $nav;
 	
