@@ -24,9 +24,9 @@ p { margin: 1em 0 0; }
 
 /* ======= Links ======= */
 
-.category a { color: #EFCB86; }
+#container .category a { color: #EFCB86; }
 
-.category a:visited { color: #EFCB86; }
+#container .category a:visited { color: #EFCB86; }
 
 a { color: #EFCB86; }
 
@@ -235,7 +235,7 @@ body.page-template-template-center-template .entry-content ul li.band-bio a {
 
 #site-title { 
 	float: left;
-	margin: 10px 0 0 0; }
+	margin: 10px 20px 0; }
 
 #site-title a { 
 	background: url(images/tramps-logo.png) no-repeat; 
@@ -251,12 +251,7 @@ body.page-template-template-center-template .entry-content ul li.band-bio a {
 
 /* ======= Navigation ======= */
 
-.page-nav { 
-	position: relative;
-	left: 30px;
-	margin: 10px 0 0 0;
-	float: left;
-	clear: right; }
+.page-nav { margin: 10px 0 0 0; }
 	
 .page-nav ul ul { 
 	margin: -20px 0 0 0;
@@ -577,4 +572,12 @@ input.wpsc_buy_button { font: 1.5em/1.5 'Special Elite'; cursor: pointer; paddin
 .entry-content #shoppingcart { position: absolute; right: -1px; padding: 10px 5px 0; top: 100px; background: #000; }
 .entry-content table.productcart { margin-top: 100px; }
 
+body.blog div.post { 
+    background: black;
+    margin: 0 20px 1em 0;
+    padding: 15px; }
+    
+body.blog .byline { font-size: 12px; }
+body.blog .entry-meta { font-size: 12px; }
 
+span.edit { display: none; font-size: 12px; opacity: 1; font-weight: normal; }

@@ -73,6 +73,9 @@ function load_js() {
 	
 	wp_register_script('shadowbox', '/wp-content/themes/sideshow-tramps/layer-behavior/sb/shadowbox.js', false);
 	wp_enqueue_script('shadowbox');
+    
+    wp_register_script('main-st', '/wp-content/themes/sideshow-tramps/layer-behavior/jquery.preloadimages.js', false);
+    wp_enqueue_script('jquery-preloadimages');
 	
 	wp_register_script('main-st', '/wp-content/themes/sideshow-tramps/layer-behavior/main.js', false);
 	wp_enqueue_script('main-st');

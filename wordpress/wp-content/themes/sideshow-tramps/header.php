@@ -52,7 +52,7 @@
 			
 			<?php hybrid_header(); // Header hook ?>
 			
-			<div class="fanbridge-object">
+			<!--div class="fanbridge-object">
 				<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
 					<tbody>
 						<tr>
@@ -74,13 +74,13 @@
     						        <a href="http://widget.fanbridge.com/widget_small_black.swf" class="vzbtnvfppcxpuegnsrtl"></a>
 								</object>
 							</td>
-							<!--td style="vertical-align: middle;">
+							<td style="vertical-align: middle;">
 								<a target="_blank" href="http://www.fanbridge.com/b.php?id=128532&amp;loc=learn/"><img height="15" width="200" border="0" src="http://img01.fanbridge.com/images/widget/small/poweredbyFB_black.png"></a>
-							</td-->
+							</td>
 						</tr>
 					</tbody>
 				</table>
-			</div>
+			</div-->
 			
 			<?php custom_page_nav(); ?>
 
