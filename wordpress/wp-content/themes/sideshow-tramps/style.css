@@ -8,7 +8,7 @@ Tags:           houston, music, country
 Template:       hybrid
 */
 
-body { overflow-y: scroll; }
+body { overflow-y: scroll; overflow-x: hidden; max-height: 1500px; }
 
 /* ======= Resize BG hack ======= */
 
@@ -495,7 +495,7 @@ div.sideshow-news a {
     transform: rotate(15deg);
     position: relative;
     top: -20px;
-    right: -280px;
+    right: -150px;
     height: 400px;
     background: url(images/recipe-bg.png) -50px 0 no-repeat; }
     

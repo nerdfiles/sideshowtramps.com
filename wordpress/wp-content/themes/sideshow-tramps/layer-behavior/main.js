@@ -1,5 +1,5 @@
 jQuery(function($) {
-    
+
     $.preLoadImages(
         "/wordpress/wp-content/themes/sideshow-tramps/images/craig-bio-bg.jpg", 
         "/wordpress/wp-content/themes/sideshow-tramps/images/scott-bio-bg.jpg",
@@ -17,17 +17,18 @@ jQuery(function($) {
 	//valid and unobtrustive means of loading a new window
 	$('a[rel="external"]').attr("target","_blank");
 
-	// shadowbox with defaults
-	Shadowbox.init();
-
 	// so that the image links refer to their larger resolutions
 	// and shadowbox can be invoked by them
 	$(".attachment-thumbnail").each(function() {
-		var el = $(this);
-			el
-			.parent()
-			.attr("href", $(this).attr("src").replace("-150x150",""))
-			.attr("rel", "shadowbox["+$(this).parent().parent().parent().parent().attr("class").slice(0,7)+"]");
+		var $el = $(this);
+			
+		$el
+    		.parent()
+    		.attr("href", $(this).attr("src").replace("-150x150",""))
+    		.attr("rel", "shadowbox["+$(this).parent().parent().parent().parent().attr("class").slice(0,7)+"]");
 	});
+	
+	// shadowbox with defaults
+    Shadowbox.init();
 	
 });
